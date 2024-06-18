@@ -1,4 +1,4 @@
----
+
 title: Welcome to my blog
 
 # Welcome to My Homepage!
@@ -20,5 +20,4 @@ Check out my latest blog posts:
 ## Contact Me
 Feel free to reach out to me via email at [youremail@example.com](mailto:youremail@example.com).
 
----
 
