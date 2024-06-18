@@ -3,9 +3,6 @@ title: Welcome to my blog
 
 # Welcome to My Homepage!
 
-## About Me
-I am passionate about technology and love to explore new things. Currently, I am learning how to use Markdown to create awesome content for my website.
-
 ## Projects
 ### Project 1: My Awesome Project
 - Description: This project aims to create something cool.
